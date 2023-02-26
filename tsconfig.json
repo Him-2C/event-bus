@@ -9,6 +9,7 @@
     "forceConsistentCasingInFileNames": true,
     "moduleResolution": "node",
     "sourceMap": true,
+    "noImplicitAny": false,
     "outDir": "build"
   },
   "include": ["src/**/*"],
